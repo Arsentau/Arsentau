@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @Arsentau.
+- 👋 Hi, I'm Nabor (it pronounced like neighbor) @Arsentau.
 - 👀 I'm interested in Web Development, Science and atomatization. Python, JavaScript, React, Angular and Django.
 - 🌱 I'm currently learning Redux and Angular.
 - 💞️ I'm looking to collaborate on Web Development Projects.
