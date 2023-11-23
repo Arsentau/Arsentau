@@ -1,10 +1,10 @@
 - 👋 Hi, I'm Nabor (it pronounced like neighbor) @Arsentau.
-- 👀 I'm interested in Web Development, Science and atomatization. Python, JavaScript, React, Angular and Django.
-- 🌱 I'm currently learning Redux and Angular.
+- 👀 I'm interested in Web Development, Science and atomatization. Python, Typescript, React, Nextjs and Nestjs.
+- 🌱 I'm currently learning Devops.
 - 💞️ I'm looking to collaborate on Web Development Projects.
 - 📫 How to reach me:
 
-  Whatsapp: +5492615595042
+  Whatsapp: +54 9 2615595042
   Email: arsentau@gmail.com
 
 <!---
