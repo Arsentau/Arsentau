@@ -4,7 +4,6 @@
 - 💞️ I'm looking to collaborate on Web Development Projects.
 - 📫 How to reach me:
 
-  Whatsapp: +54 9 2615595042
   Email: arsentau@gmail.com
 
 <!---
